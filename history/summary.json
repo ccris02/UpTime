@@ -221,19 +221,17 @@
     "icon": "https://favicons.githubusercontent.com/dotscanner.com",
     "slug": "do-tscanner",
     "status": "up",
-    "uptime": "8.01%",
-    "uptimeDay": "8.01%",
-    "uptimeWeek": "8.01%",
-    "uptimeMonth": "8.01%",
-    "uptimeYear": "8.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 265,
     "timeDay": 265,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {
-      "2021-09-27": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Polkascan",
