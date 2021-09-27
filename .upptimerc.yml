@@ -10,7 +10,15 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://thissitedoesnotexist.koj.cosites:
+  - name: Vegas1KV
+    url: https://vegas1v.com
+  - name: PolkaDIR
+    url: https://polkadir.com
+  - name: Polkadot.js
+    url: https://polkadot.js.org/
+  - name: Polkadot Telemetry
+    url: https://telemetry.polkadot.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
