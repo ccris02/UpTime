@@ -34,7 +34,7 @@ sites:
   - name: sub.id
     url: https://sub.id
   - name: DOTscanner.com
-    url: hhttps://dotscanner.com
+    url: https://dotscanner.com
   - name: Polkascan.io
     url: https://polkascan.io/polkadot
   - name: Polkaview.network
