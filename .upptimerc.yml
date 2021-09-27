@@ -8,14 +8,14 @@ sites:
   - name: PolkaDIR
     url: https://polkadir.com
   - name: Polkadot.js
-    url: https://polkadot.js.org/
+    url: https://polkadot.js.org
   - name: Polkadot Telemetry
-    url: https://telemetry.polkadot.io/
+    url: https://telemetry.polkadot.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
