@@ -3,38 +3,48 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Vegas1kv
+  - name: Kusama Wiki
+    url: https://kusama.network/
+  - name: Polkadot Wiki
+    url: https://polkadot.network/
+  - name: Vegas1kv.com
     url: https://vegas1kv.com
-  - name: Polkadir
+  - name: Polkadir.com
     url: https://polkadir.com
-  - name: Polkadot.js
+  - name: Polkadot.js.org
     url: https://polkadot.js.org
   - name: Polkadot Telemetry
     url: https://telemetry.polkadot.io
-  - name: doTreasury
+  - name: W3F Telemetry
+    url: https://telemetry.w3f.community
+  - name: doTreasury.com
     url: https://www.dotreasury.com
-  - name: Polkassembly
+  - name: Polkassembly.io
     url: https://polkadot.polkassembly.io
-  - name: PolkaProject
+  - name: PolkaProject.com
     url: https://polkaproject.com
-  - name: DOTspot
+  - name: DOTspot.io
     url: https://www.dotspot.io/projects
-  - name: Parastats
+  - name: Parastats.io
     url: https://parastats.io
-  - name: DOT Market Cap
+  - name: DOTMarketCap.com
     url: https://dotmarketcap.com
-  - name: Subscan
+  - name: Subscan.io
     url: https://kusama.subscan.io
   - name: sub.id
     url: https://sub.id
-  - name: DOTscanner
-    url: https://dotscanner.com
-  - name: Polkascan
+  - name: DOTscanner.com
+    url: hhttps://dotscanner.com
+  - name: Polkascan.io
     url: https://polkascan.io/polkadot
-  - name: Polkaview
+  - name: Polkaview.network
     url: https://polkaview.network/dot/staking
-  - name: TurboFlakes
+  - name: TurboFlakes.com
     url: https://turboflakes.com
+  - name: Polkastats.io
+    url: https://polkastats.io/
+  - name: Subsocial.network
+    url: https://subsocial.network/
 
 
 status-website:
