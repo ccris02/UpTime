@@ -10,39 +10,32 @@ sites:
   - name: Polkadot.js
     url: https://polkadot.js.org
   - name: Polkadot Telemetry
-    url: https://telemetry.polkadotsites:
-  - name: Vegas1kv
-    url: https://vegas1kv.com
-  - name: Polkadir
-    url: https://polkadir.com
-  - name: Polkadot.js
-    url: https://polkadot.js.org
-  - name: Polkadot Telemetry
     url: https://telemetry.polkadot.io
   - name: doTreasury
-    url: https://www.dotreasury.com/
+    url: https://www.dotreasury.com
   - name: Polkassembly
-    url: https://polkadot.polkassembly.io/
+    url: https://polkadot.polkassembly.io
   - name: PolkaProject
-    url: https://polkaproject.com/
+    url: https://polkaproject.com
   - name: DOTspot
-    url: https://www.dotspot.io/projects/
+    url: https://www.dotspot.io/projects
   - name: Parastats
-    url: https://parastats.io/
+    url: https://parastats.io
   - name: DOT Market Cap
-    url: https://dotmarketcap.com/
+    url: https://dotmarketcap.com
   - name: Subscan
-    url: https://kusama.subscan.io/
+    url: https://kusama.subscan.io
   - name: sub.id
-    url: https://sub.id/#/
+    url: https://sub.id
   - name: DOTscanner
-    url: hhttps://dotscanner.com/
+    url: hhttps://dotscanner.com
   - name: Polkascan
     url: https://polkascan.io/polkadot
   - name: Polkaview
     url: https://polkaview.network/dot/staking
   - name: TurboFlakes
-    url: https://turboflakes.com/
+    url: https://turboflakes.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
