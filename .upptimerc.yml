@@ -3,13 +3,13 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Kusama Wiki
+  - name: Kusama.network
     url: https://kusama.network/
-  - name: Polkadot Wiki
+  - name: Polkadot.network
     url: https://polkadot.network/
-  - name: Vegas1kv.com
+  - name: Vegas1KV.com
     url: https://vegas1kv.com
-  - name: Polkadir.com
+  - name: PolkaDIR.com
     url: https://polkadir.com
   - name: Polkadot.js.org
     url: https://polkadot.js.org
