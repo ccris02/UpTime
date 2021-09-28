@@ -220,18 +220,20 @@
     "url": "https://dotmarketcap.com",
     "icon": "https://favicons.githubusercontent.com/dotmarketcap.com",
     "slug": "dot-market-cap-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1807,
-    "timeDay": 1807,
-    "timeWeek": 1807,
-    "timeMonth": 1807,
-    "timeYear": 1807,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2019,
+    "timeDay": 2019,
+    "timeWeek": 2019,
+    "timeMonth": 2019,
+    "timeYear": 2019,
+    "dailyMinutesDown": {
+      "2021-09-28": 0
+    }
   },
   {
     "name": "Subscan.io",
