@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/kusama.network",
     "slug": "kusama-wiki",
     "status": "up",
-    "uptime": "90.42%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "90.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 133,
     "timeWeek": 133,
     "timeMonth": 133,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2021-09-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Polkadot Wiki",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/polkadot.network",
     "slug": "polkadot-wiki",
     "status": "up",
-    "uptime": "90.91%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "90.91%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "90.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 234,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2021-09-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vegas1kv.com",
@@ -117,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/telemetry.w3f.community",
     "slug": "w3-f-telemetry",
     "status": "up",
-    "uptime": "91.17%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "91.17%",
-    "uptimeMonth": "91.17%",
-    "uptimeYear": "91.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 537,
     "timeDay": 537,
     "timeWeek": 537,
     "timeMonth": 537,
     "timeYear": 537,
-    "dailyMinutesDown": {
-      "2021-09-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "doTreasury.com",
@@ -317,19 +311,17 @@
     "icon": "https://favicons.githubusercontent.com/polkaview.network",
     "slug": "polkaview-network",
     "status": "up",
-    "uptime": "91.41%",
-    "uptimeDay": "91.41%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "91.41%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 363,
     "timeWeek": 363,
     "timeMonth": 363,
     "timeYear": 363,
-    "dailyMinutesDown": {
-      "2021-09-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TurboFlakes.com",
@@ -373,18 +365,16 @@
     "icon": "https://favicons.githubusercontent.com/subsocial.network",
     "slug": "subsocial-network",
     "status": "up",
-    "uptime": "91.66%",
-    "uptimeDay": "91.66%",
-    "uptimeWeek": "91.66%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "91.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1235,
     "timeDay": 1235,
     "timeWeek": 1235,
     "timeMonth": 1235,
     "timeYear": 1235,
-    "dailyMinutesDown": {
-      "2021-09-27": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
