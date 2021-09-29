@@ -94,18 +94,20 @@
     "url": "https://telemetry.polkadot.io",
     "icon": "https://favicons.githubusercontent.com/telemetry.polkadot.io",
     "slug": "polkadot-telemetry",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 569,
     "timeDay": 593,
     "timeWeek": 569,
     "timeMonth": 569,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "W3F Telemetry",
@@ -185,18 +187,18 @@
     "icon": "https://favicons.githubusercontent.com/www.dotspot.io",
     "slug": "do-tspot-io",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "90.43%",
+    "uptimeDay": "85.33%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "90.43%",
     "time": 250,
     "timeDay": 280,
     "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2021-09-29": 0
+      "2021-09-29": 211
     }
   },
   {
@@ -223,11 +225,11 @@
     "icon": "https://favicons.githubusercontent.com/dotmarketcap.com",
     "slug": "dot-market-cap-com",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.48%",
     "uptimeDay": "97.67%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
     "time": 1716,
     "timeDay": 1625,
     "timeWeek": 1716,
