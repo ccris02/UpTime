@@ -48,11 +48,12 @@ sites:
 
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /UpTime
-  # themeUrl: https://github.com/ccris02/UpTime/blob/master/assets/my-custom-theme.css
+  themeUrl: https://github.com/ccris02/UpTime/blob/master/assets/custom-theme.css
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Polkadot Upptime
   introTitle: "**Polkadot_Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
