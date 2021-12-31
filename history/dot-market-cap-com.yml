@@ -1,7 +1,7 @@
 url: https://dotmarketcap.com
-status: down
-code: 500
-responseTime: 1918
-lastUpdated: 2021-12-31T06:50:55.126Z
+status: up
+code: 200
+responseTime: 2301
+lastUpdated: 2021-12-31T07:01:03.200Z
 startTime: Mon Sep 27 2021 21:55:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
