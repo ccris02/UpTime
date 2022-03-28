@@ -309,9 +309,9 @@
     "url": "https://polkastats.io/",
     "icon": "https://polkastats.io/img/favicon.png",
     "slug": "polkastats-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -321,6 +321,7 @@
     "timeMonth": 532,
     "timeYear": 518,
     "dailyMinutesDown": {
+      "2022-03-28": 0,
       "2022-03-11": 22,
       "2022-01-14": 24
     }
@@ -338,7 +339,7 @@
     "uptimeYear": "99.54%",
     "time": 917,
     "timeDay": 824,
-    "timeWeek": 816,
+    "timeWeek": 830,
     "timeMonth": 874,
     "timeYear": 917,
     "dailyMinutesDown": {
