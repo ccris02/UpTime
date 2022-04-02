@@ -171,9 +171,9 @@
     "url": "https://polkaproject.com",
     "icon": "https://resource.staked.store/polkaproject/favicon.ico",
     "slug": "polka-project-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -183,6 +183,7 @@
     "timeMonth": 643,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-01-29": 28
     }
   },
