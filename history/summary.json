@@ -255,19 +255,19 @@
     "url": "https://sub.id",
     "icon": "https://sub.id/favicon.ico",
     "slug": "sub-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 299,
-    "timeWeek": 525,
-    "timeMonth": 824,
-    "timeYear": 281,
+    "time": 283,
+    "timeDay": 392,
+    "timeWeek": 531,
+    "timeMonth": 816,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 10
     }
   },
   {
