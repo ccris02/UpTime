@@ -255,18 +255,20 @@
     "url": "https://sub.id",
     "icon": "https://sub.id/favicon.ico",
     "slug": "sub-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 339,
-    "timeWeek": 563,
-    "timeMonth": 842,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "time": 281,
+    "timeDay": 299,
+    "timeWeek": 525,
+    "timeMonth": 824,
+    "timeYear": 281,
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "DOTscanner.com",
@@ -339,7 +341,7 @@
     "time": 929,
     "timeDay": 1502,
     "timeWeek": 1366,
-    "timeMonth": 961,
+    "timeMonth": 960,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2022-03-25": 22,
