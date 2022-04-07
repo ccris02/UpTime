@@ -124,7 +124,7 @@
     "time": 530,
     "timeDay": 661,
     "timeWeek": 575,
-    "timeMonth": 556,
+    "timeMonth": 553,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2021-11-19": 16
@@ -330,11 +330,11 @@
     "url": "https://subsocial.network/",
     "icon": "https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png",
     "slug": "subsocial-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.56%",
     "time": 929,
     "timeDay": 786,
@@ -342,6 +342,7 @@
     "timeMonth": 957,
     "timeYear": 929,
     "dailyMinutesDown": {
+      "2022-04-07": 0,
       "2022-03-25": 22,
       "2022-03-18": 55,
       "2022-03-10": 23,
