@@ -45,36 +45,40 @@
     "url": "https://vegas1kv.com",
     "icon": "https://vegas1kv.com/img/favicon.png",
     "slug": "vegas1-kv-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 136,
-    "timeWeek": 139,
-    "timeMonth": 146,
+    "timeDay": 113,
+    "timeWeek": 133,
+    "timeMonth": 144,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "PolkaDIR.com",
     "url": "https://polkadir.com",
     "icon": "https://polkadir.com/index_files/favicon.png",
     "slug": "polka-dir-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 234,
-    "timeWeek": 200,
+    "timeDay": 203,
+    "timeWeek": 197,
     "timeMonth": 166,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "Polkadot.js.org",
@@ -139,18 +143,20 @@
     "url": "https://www.dotreasury.com",
     "icon": "https://www.dotreasury.com/favicon.ico",
     "slug": "do-treasury-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 233,
-    "timeWeek": 182,
-    "timeMonth": 181,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "time": 196,
+    "timeDay": 168,
+    "timeWeek": 172,
+    "timeMonth": 179,
+    "timeYear": 196,
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "Polkassembly.io",
@@ -259,18 +265,19 @@
     "url": "https://sub.id",
     "icon": "https://sub.id/favicon.ico",
     "slug": "sub-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 375,
-    "timeDay": 973,
-    "timeWeek": 1120,
-    "timeMonth": 748,
-    "timeYear": 375,
+    "time": 374,
+    "timeDay": 577,
+    "timeWeek": 1002,
+    "timeMonth": 732,
+    "timeYear": 374,
     "dailyMinutesDown": {
+      "2022-06-17": 0,
       "2022-05-27": 30,
       "2022-04-15": 19
     }
