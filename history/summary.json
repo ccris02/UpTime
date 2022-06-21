@@ -45,19 +45,19 @@
     "url": "https://vegas1kv.com",
     "icon": "https://vegas1kv.com/img/favicon.png",
     "slug": "vegas1-kv-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 162,
-    "timeWeek": 118,
+    "timeDay": 153,
+    "timeWeek": 120,
     "timeMonth": 137,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 13
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://polkadir.com",
     "icon": "https://polkadir.com/index_files/favicon.png",
     "slug": "polka-dir-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 338,
-    "timeWeek": 252,
+    "timeDay": 255,
+    "timeWeek": 244,
     "timeMonth": 177,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 13
     }
   },
   {
@@ -87,9 +87,9 @@
     "slug": "polkadot-js-org",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 171,
     "timeDay": 60,
@@ -97,7 +97,7 @@
     "timeMonth": 154,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 13
     }
   },
   {
@@ -145,19 +145,19 @@
     "url": "https://www.dotreasury.com",
     "icon": "https://www.dotreasury.com/favicon.ico",
     "slug": "do-treasury-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 260,
-    "timeWeek": 211,
+    "timeDay": 229,
+    "timeWeek": 207,
     "timeMonth": 184,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 13
     }
   },
   {
@@ -251,9 +251,9 @@
     "slug": "subscan-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 272,
@@ -261,7 +261,7 @@
     "timeMonth": 274,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 13
     }
   },
   {
@@ -269,19 +269,19 @@
     "url": "https://sub.id",
     "icon": "https://sub.id/favicon.ico",
     "slug": "sub-id",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 390,
-    "timeDay": 865,
-    "timeWeek": 1118,
-    "timeMonth": 851,
-    "timeYear": 390,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
+    "time": 392,
+    "timeDay": 812,
+    "timeWeek": 1082,
+    "timeMonth": 849,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-06-21": 1,
+      "2022-06-21": 12,
       "2022-05-27": 30,
       "2022-04-15": 19
     }
