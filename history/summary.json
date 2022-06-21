@@ -81,10 +81,10 @@
     "url": "https://polkadot.js.org",
     "icon": "https://polkadot.js.org/favicon.ico",
     "slug": "polkadot-js-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 171,
@@ -93,7 +93,7 @@
     "timeMonth": 153,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2022-06-21": 34
+      "2022-06-21": 35
     }
   },
   {
@@ -141,18 +141,20 @@
     "url": "https://www.dotreasury.com",
     "icon": "https://www.dotreasury.com/favicon.ico",
     "slug": "do-treasury-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 229,
-    "timeWeek": 207,
-    "timeMonth": 184,
+    "timeDay": 207,
+    "timeWeek": 201,
+    "timeMonth": 183,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Polkassembly.io",
@@ -243,19 +245,19 @@
     "url": "https://kusama.subscan.io",
     "icon": "https://kusama.subscan.io/favicon.png",
     "slug": "subscan-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 323,
-    "timeDay": 223,
-    "timeWeek": 277,
-    "timeMonth": 271,
-    "timeYear": 323,
+    "time": 322,
+    "timeDay": 170,
+    "timeWeek": 254,
+    "timeMonth": 265,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2022-06-21": 34
+      "2022-06-21": 35
     }
   },
   {
@@ -263,9 +265,9 @@
     "url": "https://sub.id",
     "icon": "https://sub.id/favicon.ico",
     "slug": "sub-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -275,6 +277,7 @@
     "timeMonth": 849,
     "timeYear": 392,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-27": 30,
       "2022-04-15": 19
     }
