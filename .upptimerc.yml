@@ -92,15 +92,15 @@ sites:
     icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png   
     
   - name: Polkadot - Parity RPC
-    url: wss://kusama-rpc.polkadot.io
+    url: wss://rpc.polkadot.io
     icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
     
   - name: Polkadot - OnFinality RPC
-    url: wss://kusama.api.onfinality.io/public-ws
+    url: wss://polkadot.api.onfinality.io/public-ws
     icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
 
   - name: Polkadot - Dwellir RPC
-    url: wss://kusama-rpc.dwellir.com
+    url: wss://polkadot-rpc.dwellir.com
     icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
     
 status-website:
