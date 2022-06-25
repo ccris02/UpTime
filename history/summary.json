@@ -45,10 +45,10 @@
     "url": "https://vegas1kv.com",
     "icon": "https://vegas1kv.com/img/favicon.png",
     "slug": "vegas1-kv-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
@@ -56,16 +56,18 @@
     "timeWeek": 135,
     "timeMonth": 141,
     "timeYear": 164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 1
+    }
   },
   {
     "name": "PolkaDIR.com",
     "url": "https://polkadir.com",
     "icon": "https://polkadir.com/index_files/favicon.png",
     "slug": "polka-dir-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +76,9 @@
     "timeWeek": 224,
     "timeMonth": 192,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 0
+    }
   },
   {
     "name": "Polkadot.js.org",
@@ -417,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 106,
+      "2022-06-25": 527,
       "2022-06-24": 1440,
       "2022-06-23": 1271
     }
@@ -439,7 +443,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 106,
+      "2022-06-25": 527,
       "2022-06-24": 1440,
       "2022-06-23": 1271
     }
@@ -461,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 106,
+      "2022-06-25": 527,
       "2022-06-24": 1440,
       "2022-06-23": 1271
     }
@@ -483,7 +487,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 106,
+      "2022-06-25": 527,
       "2022-06-24": 1440,
       "2022-06-23": 1271
     }
@@ -505,7 +509,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 106,
+      "2022-06-25": 527,
       "2022-06-24": 1440,
       "2022-06-23": 1271
     }
@@ -527,7 +531,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 106,
+      "2022-06-25": 527,
       "2022-06-24": 1440,
       "2022-06-23": 1271
     }
@@ -549,7 +553,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 106,
+      "2022-06-25": 527,
       "2022-06-24": 1440,
       "2022-06-23": 1271
     }
