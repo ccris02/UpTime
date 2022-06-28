@@ -1,7 +1,7 @@
-url: http://polkadot.api.onfinality.io/public-ws
+url: http://polkadot.api.onfinality.io
 status: down
 code: 400
-responseTime: 201
-lastUpdated: 2022-06-28T19:36:55.197Z
+responseTime: 206
+lastUpdated: 2022-06-28T23:22:17.230Z
 startTime: Thu Jun 23 2022 03:43:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
