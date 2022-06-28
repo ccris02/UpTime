@@ -77,38 +77,38 @@ sites:
 
   - name: Kusama - Parity RPC
     check: "tcp-ping"
-    url: wss://kusama-rpc.polkadot.io
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
+    url: kusama-rpc.polkadot.io
+    icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - OnFinality RPC
     check: "tcp-ping"
-    url: wss://kusama.api.onfinality.io/public-ws
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
+    url: kusama.api.onfinality.io/public-ws
+    icon: https://kusama.network/assets/img/favicon.ico
 
   - name: Kusama - Dwellir RPC
     check: "tcp-ping"
-    url: wss://kusama-rpc.dwellir.com
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
+    url: kusama-rpc.dwellir.com
+    icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - RadiumBlock RPC
     check: "tcp-ping"
-    url: wss://kusama.public.curie.radiumblock.co/ws
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png   
+    url: kusama.public.curie.radiumblock.co/ws
+    icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Polkadot - Parity RPC
     check: "tcp-ping"
-    url: wss://rpc.polkadot.io
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
+    url: rpc.polkadot.io
+    icon: https://polkadot.network/favicon.png
     
   - name: Polkadot - OnFinality RPC
     check: "tcp-ping"
     url: wss://polkadot.api.onfinality.io/public-ws
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
+    icon: https://polkadot.network/favicon.png
 
   - name: Polkadot - Dwellir RPC
     check: "tcp-ping"
-    url: wss://polkadot-rpc.dwellir.com
-    icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
+    url: polkadot-rpc.dwellir.com
+    icon: https://polkadot.network/favicon.png
     
 status-website:
   theme: dark
