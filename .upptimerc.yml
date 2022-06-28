@@ -96,18 +96,18 @@ sites:
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Polkadot - Parity RPC
-    check: "tcp-ping"
     url: http://rpc.polkadot.io
+    check: "tcp-ping"
     icon: https://polkadot.network/favicon.png
     
   - name: Polkadot - OnFinality RPC
-    method: POST
     url: http://polkadot.api.onfinality.io/public-ws
+    method: POST
     icon: https://polkadot.network/favicon.png
 
   - name: Polkadot - Dwellir RPC
-    check: "tcp-ping"
     url: http://polkadot-rpc.dwellir.com
+    check: "tcp-ping"
     icon: https://polkadot.network/favicon.png
     
 status-website:
