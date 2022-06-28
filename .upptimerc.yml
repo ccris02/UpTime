@@ -101,7 +101,7 @@ sites:
     icon: https://polkadot.network/favicon.png
     
   - name: Polkadot - OnFinality RPC
-    check: "tcp-ping"
+    method: POST
     url: wss://polkadot.api.onfinality.io/public-ws
     icon: https://polkadot.network/favicon.png
 
