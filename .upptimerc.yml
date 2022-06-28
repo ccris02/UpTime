@@ -77,37 +77,37 @@ sites:
 
   - name: Kusama - Parity RPC
     check: "tcp-ping"
-    url: kusama-rpc.polkadot.io
+    url: http://kusama-rpc.polkadot.io
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - OnFinality RPC
     check: "tcp-ping"
-    url: kusama.api.onfinality.io/public-ws
+    url: http://kusama.api.onfinality.io/public-ws
     icon: https://kusama.network/assets/img/favicon.ico
 
   - name: Kusama - Dwellir RPC
     check: "tcp-ping"
-    url: kusama-rpc.dwellir.com
+    url: http://kusama-rpc.dwellir.com
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - RadiumBlock RPC
     check: "tcp-ping"
-    url: kusama.public.curie.radiumblock.co/ws
+    url: http://kusama.public.curie.radiumblock.co/ws
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Polkadot - Parity RPC
     check: "tcp-ping"
-    url: rpc.polkadot.io
+    url: http://rpc.polkadot.io
     icon: https://polkadot.network/favicon.png
     
   - name: Polkadot - OnFinality RPC
     method: POST
-    url: wss://polkadot.api.onfinality.io/public-ws
+    url: http://polkadot.api.onfinality.io/public-ws
     icon: https://polkadot.network/favicon.png
 
   - name: Polkadot - Dwellir RPC
     check: "tcp-ping"
-    url: polkadot-rpc.dwellir.com
+    url: http://polkadot-rpc.dwellir.com
     icon: https://polkadot.network/favicon.png
     
 status-website:
