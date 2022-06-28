@@ -115,13 +115,18 @@ sites:
     url: wss://polkadot.api.onfinality.io/public-ws
     body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
     
+  - name: test_onfinality
+    check: "wss"
+    url: wss://polkadot.api.onfinality.io/public-ws
+    body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
+    
   - name: Blocks - check(tcp-ping) w/0 expected status code
     check: "tcp-ping"
     url: wss://explorer.icon.geometry-dev.net/ws/v1/blocks
     
   - name: Blocks on Community - check(wss) w/0 expected status code
     check: "wss"
-    url: wss://tracker.icon.community/ws/v1/blocks
+    url: wss://polkadot.api.onfinality.io/public-ws
          
 status-website:
   theme: dark
