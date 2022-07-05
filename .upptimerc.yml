@@ -76,28 +76,28 @@ sites:
     icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
 
   - name: Kusama - Parity RPC
-    check: "tcp-ping"
     url: http://kusama-rpc.polkadot.io
+    method: POST
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - OnFinality RPC
-    check: "tcp-ping"
     url: http://kusama.api.onfinality.io/public-ws
+    method: POST
     icon: https://kusama.network/assets/img/favicon.ico
 
   - name: Kusama - Dwellir RPC
-    check: "tcp-ping"
     url: http://kusama-rpc.dwellir.com
+    method: POST
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - RadiumBlock RPC
     url: http://kusama.public.curie.radiumblock.co
-    check: tcp-ping
+    method: POST
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Polkadot - Parity RPC
     url: http://rpc.polkadot.io
-    check: "tcp-ping"
+    method: POST
     icon: https://polkadot.network/favicon.png
     
   - name: Polkadot - OnFinality RPC
@@ -107,27 +107,10 @@ sites:
 
   - name: Polkadot - Dwellir RPC
     url: http://polkadot-rpc.dwellir.com
-    check: "tcp-ping"
+    method: POST
     icon: https://polkadot.network/favicon.png
    
-  - name: test
-    check: "ws"
-    url: wss://polkadot.api.onfinality.io/public-ws
-    body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
-    
-  - name: test_onfinality
-    check: "wss"
-    url: wss://polkadot.api.onfinality.io/public-ws
-    body: '{"id":1,"jsonrpc":"2.0","method":"chain_getBlockHash","params":[0]}'
-    
-  - name: Blocks - check(tcp-ping) w/0 expected status code
-    check: "tcp-ping"
-    url: wss://explorer.icon.geometry-dev.net/ws/v1/blocks
-    
-  - name: Blocks on Community - check(wss) w/0 expected status code
-    check: "wss"
-    url: wss://polkadot.api.onfinality.io/public-ws
-         
+           
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
