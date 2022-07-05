@@ -1,7 +1,7 @@
-url: http://kusama.api.onfinality.io/public-ws
+url: https://kusama.api.onfinality.io
 status: down
-code: 400
-responseTime: 204
-lastUpdated: 2022-07-05T14:45:40.282Z
+code: 404
+responseTime: 296
+lastUpdated: 2022-07-05T23:24:11.887Z
 startTime: Thu Jun 23 2022 03:43:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
