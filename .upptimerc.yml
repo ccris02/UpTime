@@ -87,7 +87,6 @@ sites:
 
   - name: Kusama - Dwellir RPC
     url: http://kusama-rpc.dwellir.com
-    method: POST
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - RadiumBlock RPC
@@ -107,7 +106,6 @@ sites:
 
   - name: Polkadot - Dwellir RPC
     url: http://polkadot-rpc.dwellir.com
-    method: GET
     icon: https://polkadot.network/favicon.png
    
            
