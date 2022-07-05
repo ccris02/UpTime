@@ -102,12 +102,12 @@ sites:
     
   - name: Polkadot - OnFinality RPC
     url: http://polkadot.api.onfinality.io
-    method: POST
+    method: GET
     icon: https://polkadot.network/favicon.png
 
   - name: Polkadot - Dwellir RPC
     url: http://polkadot-rpc.dwellir.com
-    method: POST
+    method: GET
     icon: https://polkadot.network/favicon.png
    
            
