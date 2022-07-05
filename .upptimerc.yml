@@ -76,36 +76,31 @@ sites:
     icon: https://static.tildacdn.com/tild6265-6335-4237-b338-323439306134/subsocial-sign.png
 
   - name: Kusama - Parity RPC
-    url: http://kusama-rpc.polkadot.io
-    method: POST
+    url: https://kusama-rpc.polkadot.io
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - OnFinality RPC
-    url: http://kusama.api.onfinality.io/public-ws
-    method: POST
+    url: https://kusama.api.onfinality.io
     icon: https://kusama.network/assets/img/favicon.ico
 
   - name: Kusama - Dwellir RPC
-    url: http://kusama-rpc.dwellir.com
+    url: https://kusama-rpc.dwellir.com
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Kusama - RadiumBlock RPC
-    url: http://kusama.public.curie.radiumblock.co
-    method: POST
+    url: https://kusama.public.curie.radiumblock.com
     icon: https://kusama.network/assets/img/favicon.ico
     
   - name: Polkadot - Parity RPC
-    url: http://rpc.polkadot.io
-    method: POST
+    url: https://rpc.polkadot.io
     icon: https://polkadot.network/favicon.png
     
   - name: Polkadot - OnFinality RPC
-    url: http://polkadot.api.onfinality.io
-    method: GET
+    url: https://polkadot.api.onfinality.io
     icon: https://polkadot.network/favicon.png
 
   - name: Polkadot - Dwellir RPC
-    url: http://polkadot-rpc.dwellir.com
+    url: https://polkadot-rpc.dwellir.com
     icon: https://polkadot.network/favicon.png
    
            
