@@ -96,11 +96,11 @@ sites:
     icon: https://polkadot.network/favicon.png
     
   - name: Polkadot - OnFinality RPC
-    url: https://polkadot.api.onfinality.io
+    url: http://polkadot.api.onfinality.io
     icon: https://polkadot.network/favicon.png
 
   - name: Polkadot - Dwellir RPC
-    url: https://polkadot-rpc.dwellir.com
+    url: http://polkadot-rpc.dwellir.com
     icon: https://polkadot.network/favicon.png
    
            
