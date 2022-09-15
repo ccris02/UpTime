@@ -4,19 +4,19 @@
     "url": "https://kusama.network/",
     "icon": "https://kusama.network/assets/img/favicon.ico",
     "slug": "kusama-network",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 151,
-    "timeDay": 33,
-    "timeWeek": 138,
-    "timeMonth": 116,
+    "timeDay": 40,
+    "timeWeek": 126,
+    "timeMonth": 114,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-09-15": 1,
+      "2022-09-15": 23,
       "2022-06-03": 113
     }
   },
@@ -220,19 +220,19 @@
     "url": "https://www.dotspot.io/projects",
     "icon": "https://www.dotspot.io/apple-touch-icon.png",
     "slug": "do-tspot-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 78,
-    "timeWeek": 226,
-    "timeMonth": 198,
-    "timeYear": 223,
+    "time": 222,
+    "timeDay": 76,
+    "timeWeek": 207,
+    "timeMonth": 194,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2022-09-15": 1
+      "2022-09-15": 23
     }
   },
   {
@@ -456,7 +456,7 @@
     "timeMonth": 572,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-09-15": 1140,
+      "2022-09-15": 1163,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -554,7 +554,7 @@
     "timeMonth": 214,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2022-09-15": 1140,
+      "2022-09-15": 1163,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -652,7 +652,7 @@
     "timeMonth": 490,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2022-09-15": 1140,
+      "2022-09-15": 1163,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -750,7 +750,7 @@
     "timeMonth": 0,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-09-15": 1140,
+      "2022-09-15": 1163,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -848,7 +848,7 @@
     "timeMonth": 541,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-09-15": 1140,
+      "2022-09-15": 1163,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -946,7 +946,7 @@
     "timeMonth": 152,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2022-09-15": 1140,
+      "2022-09-15": 1163,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -1050,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-09-15": 1140,
+      "2022-09-15": 1163,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
