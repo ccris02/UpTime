@@ -1,7 +1,7 @@
 url: https://rpc.polkadot.io
 status: down
-code: 502
-responseTime: 382
-lastUpdated: 2022-09-24T23:27:57.026Z
+code: 405
+responseTime: 747
+lastUpdated: 2022-09-25T23:28:41.612Z
 startTime: Thu Jun 23 2022 03:43:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
